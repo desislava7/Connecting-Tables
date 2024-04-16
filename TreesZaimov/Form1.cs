@@ -22,11 +22,29 @@ namespace TreesZaimov
             "user=PC1;" +
             "password= 1111;" +
             "database=trees_zaimov";
+        
         private void Form1_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
             MySqlConnection connect = new MySqlConnection(connstr);
-            if(connect.State == 0)connect.Open();
+            if (connect.State == 0) connect.Open();
             MessageBox.Show("Connection now opend!");
+
+            string insertSQL = "INSERT INTO trees_zaimov.razred (`name`, name_bg) " +
+                "VALUES (@name,@name_bg)";
+
+            MySqlCommand query = new MySqlCommand(insertSQL, connect);
+
+            query.Parameters.AddWithValue("@name", txt1.Text);
+            query.Parameters.AddWithValue("@name_bg", txt2.Text);
+
+            query.ExecuteNonQuery();
+            MessageBox.Show("dobavih v tablica razred");
+            connect.Close();
         }
     }
 }
