@@ -1,0 +1,29 @@
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\TreesZaimov.exe.config
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\TreesZaimov.exe
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\TreesZaimov.pdb
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\MySqlConnector.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Buffers.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Memory.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Numerics.Vectors.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\MySqlConnector.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Buffers.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Memory.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Numerics.Vectors.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\Conecting Tables.csproj.AssemblyReference.cache
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\Conecting Tables.csproj.SuggestedBindingRedirects.cache
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\TreesZaimov.exe.config
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\TreesZaimov.Form1.resources
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\TreesZaimov.Properties.Resources.resources
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\Conecting Tables.csproj.GenerateResource.cache
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\Conecting Tables.csproj.CoreCompileInputs.cache
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\Conectin.F266F3F7.Up2Date
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\TreesZaimov.exe
+C:\slavena 11a\TreesZaimov\TreesZaimov\obj\Debug\TreesZaimov.pdb
